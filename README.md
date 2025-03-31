@@ -1,4 +1,4 @@
-# Aslain WoT Modpack Auto-Installer
+# Aslain WoT Modpack AutoUpdater
 
 Automatically downloads and installs the latest version of Aslain's World of Tanks Modpack in **~20 seconds**.
 
